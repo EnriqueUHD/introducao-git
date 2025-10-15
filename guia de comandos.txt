@@ -16,4 +16,4 @@ Ctrl + L - limpa o terminal
 
 *agora estamos na branch nova*
 
-git checkout -b dev
+git checkout -b dev - Cria e muda para uma nova branch
