@@ -1,10 +1,16 @@
 git init -> criar o repositório local
 
-git remote add origin 'Link do github'
+git remote add origin 'Link do github' - Adiciona o repositório remoto como origem
 
-git add .
+git add .  / git add nome_do_arquivo - Adiciona as alterações ao índice
 
-git commit -m "mensagem de commit"
+git commit -m "mensagem de commit" - Cria um commit com uma mensagem descritiva
 
-git push origin main
+git push origin main - Envia o código para o GitHub
+
+
+git branch -M main - Renomeia a branch principal (opcional)
+
+
+
 
