@@ -12,5 +12,8 @@ git push origin main - Envia o código para o GitHub
 git branch -M main - Renomeia a branch principal (opcional)
 
 
+Ctrl + L - limpa o terminal
 
+*agora estamos na branch nova*
 
+git checkout -b dev
